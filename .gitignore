@@ -14,3 +14,6 @@ chroma_db/
 
 # VS Code
 .vscode/
+
+# Backup files
+src/pipeline_backup.py
